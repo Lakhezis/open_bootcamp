@@ -4,3 +4,4 @@ while (i < 10) {
     multi *= (i + 1);
     i++
 }
+console.log(multi)
