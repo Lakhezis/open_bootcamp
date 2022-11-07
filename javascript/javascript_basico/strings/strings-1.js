@@ -1,0 +1,10 @@
+let nombre = "Mina";
+let apellido = "Tocci";
+let estudiante = nombre + " " + apellido;
+let estudianteMayus = estudiante.toUpperCase();
+let estudianteMinus = estudiante.toLowerCase();
+let tamaño = estudiante.length;
+let primera = estudiante.charAt(0);
+let ultima = estudiante.charAt(estudiante.length - 1)
+let sinEspacios = estudiante.replace(' ','')
+let incluida = estudiante.includes(nombre)
